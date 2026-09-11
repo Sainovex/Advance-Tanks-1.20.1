@@ -36,7 +36,7 @@ description='''${mod_description}'''
 [[dependencies.${mod_id}]]
     modId="superbwarfare"
     mandatory=true
-    versionRange="[0.8.9.1,)"
+    versionRange="[0.8.9.1]"
     ordering="AFTER"
     side="BOTH"
 
