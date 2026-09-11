@@ -30,4 +30,4 @@ To run or develop this mod, ensure you have:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Advance-Tanks.git](https://github.com/Sainovex/Advance-Tanks-1.20.1)
+   git clone [https://github.com/Sainovex/Advance-Tanks-1.20.1.git](https://github.com/Sainovex/Advance-Tanks-1.20.1.git)
