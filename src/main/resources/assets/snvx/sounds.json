@@ -1,0 +1,50 @@
+{
+  "t90msa_engine": {
+    "sounds": [
+      {
+        "name": "snvx:vehicle/t90msa/t90msa_engine",
+        "stream": false
+      }
+    ]
+  },
+  "t90msa_reload": {
+    "sounds": [
+      {
+        "name": "snvx:vehicle/t90msa/t90msa_reload",
+        "stream": false
+      }
+    ]
+  },
+  "t90msa_far": {
+    "sounds": [
+      {
+        "name": "snvx:vehicle/t90msa/t90msa_far",
+        "stream": false
+      }
+    ]
+  },
+  "t90msa_fire_1p": {
+    "sounds": [
+      {
+        "name": "snvx:vehicle/t90msa/t90msa_fire_1p",
+        "stream": false
+      }
+    ]
+  },
+  "t90msa_fire_3p": {
+    "sounds": [
+      {
+        "name": "snvx:vehicle/t90msa/t90msa_fire_3p",
+        "stream": false
+      }
+    ]
+  },
+  "t90msa_veryfar": {
+    "sounds": [
+      {
+        "name": "snvx:vehicle/t90msa/t90msa_veryfar",
+        "stream": false
+      }
+    ]
+  }
+}

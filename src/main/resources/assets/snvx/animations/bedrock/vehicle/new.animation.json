@@ -1,0 +1,355 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.unknown.new": {
+			"loop": true
+		},
+		"animation.unknown.new2": {
+			"loop": true,
+			"bones": {
+				"TrackL": {
+					"position": [0, 0, 0]
+				},
+				"trackMovL1": {
+					"rotation": [2, 0, 0],
+					"position": [0, 0, 3]
+				},
+				"trackMovL2": {
+					"rotation": [1.5, 0, 0],
+					"position": [0, 0.1, 6]
+				},
+				"trackMovL3": {
+					"rotation": [2, 0, 0],
+					"position": [0, 0.1, 9]
+				},
+				"trackMovL4": {
+					"rotation": [1.5, 0, 0],
+					"position": [0, 0.2, 12]
+				},
+				"trackMovL5": {
+					"rotation": [1, 0, 0],
+					"position": [0, 0.3, 15]
+				},
+				"trackMovL6": {
+					"rotation": [3, 0, 0],
+					"position": [0, 0.3, 18]
+				},
+				"trackMovL7": {
+					"rotation": [2, 0, 0],
+					"position": [0, 0.4, 21]
+				},
+				"trackMovL8": {
+					"rotation": [1, 0, 0],
+					"position": [0, 0.5, 24]
+				},
+				"trackMovL9": {
+					"rotation": [2, 0, 0],
+					"position": [0, 0.5, 27]
+				},
+				"trackMovL10": {
+					"rotation": [2, 0, 0],
+					"position": [0, 0.6, 30]
+				},
+				"trackMovL11": {
+					"rotation": [1, 0, 0],
+					"position": [0, 0.7, 33]
+				},
+				"trackMovL12": {
+					"rotation": [3, 0, 0],
+					"position": [0, 0.7, 36]
+				},
+				"trackMovL13": {
+					"rotation": [2, 0, 0],
+					"position": [0, 0.8, 39]
+				},
+				"trackMovL14": {
+					"rotation": [1, 0, 0],
+					"position": [0, 0.9, 42]
+				},
+				"trackMovL15": {
+					"rotation": [2, 0, 0],
+					"position": [0, 0.9, 45]
+				},
+				"trackMovL16": {
+					"rotation": [2, 0, 0],
+					"position": [0, 1, 48]
+				},
+				"trackMovL17": {
+					"rotation": [1, 0, 0],
+					"position": [0, 1.1, 51]
+				},
+				"trackMovL18": {
+					"rotation": [1, 0, 0],
+					"position": [0, 1.2, 54]
+				},
+				"trackMovL19": {
+					"rotation": [0, 0, 0],
+					"position": [0, 1.3, 57]
+				},
+				"trackMovL20": {
+					"rotation": [1, 0, 0],
+					"position": [0, 1.3, 60]
+				},
+				"trackMovL21": {
+					"rotation": [1, 0, 0],
+					"position": [0, 1.35, 63]
+				},
+				"trackMovL22": {
+					"rotation": [2, 0, 0],
+					"position": [0, 1.4, 66]
+				},
+				"trackMovL23": {
+					"rotation": [1, 0, 0],
+					"position": [0, 1.5, 69]
+				},
+				"trackMovL24": {
+					"rotation": [1, 0, 0],
+					"position": [0, 1.55, 72]
+				},
+				"trackMovL25": {
+					"rotation": [1.5, 0, 0],
+					"position": [0, 1.6, 75]
+				},
+				"trackMovL26": {
+					"rotation": [1, 0, 0],
+					"position": [0, 1.7, 78]
+				},
+				"trackMovL27": {
+					"rotation": [1, 0, 0],
+					"position": [0, 1.75, 81]
+				},
+				"trackMovL28": {
+					"rotation": [1.5, 0, 0],
+					"position": [0, 1.8, 84]
+				},
+				"trackMovL29": {
+					"rotation": [1, 0, 0],
+					"position": [0, 1.9, 87]
+				},
+				"trackMovL30": {
+					"rotation": [0, 0, 0],
+					"position": [0, 1.9, 90]
+				},
+				"trackMovL31": {
+					"rotation": [1, 0, 0],
+					"position": [0, 1.95, 93]
+				},
+				"trackMovL32": {
+					"rotation": [1, 0, 0],
+					"position": [0, 2, 96]
+				},
+				"trackMovL33": {
+					"rotation": [1, 0, 0],
+					"position": [0, 2.1, 99]
+				},
+				"trackMovL34": {
+					"rotation": [3, 0, 0],
+					"position": [0, 2.2, 102]
+				},
+				"trackMovL35": {
+					"position": [0, 2.3, 105]
+				},
+				"trackMovL36": {
+					"rotation": [-39, 0, 0],
+					"position": [0, 2.2, 107.85]
+				},
+				"trackMovL37": {
+					"rotation": [-72.5, 0, 0],
+					"position": [0, 0.4, 110]
+				},
+				"trackMovL38": {
+					"rotation": [-95, 0, 0],
+					"position": [0, -2.3, 110.8]
+				},
+				"trackMovL39": {
+					"rotation": [-127.5, 0, 0],
+					"position": [0, -5.4, 110.65]
+				},
+				"trackMovL40": {
+					"rotation": [220.5, 0, 0],
+					"position": [0, -7.6, 108.8]
+				},
+				"trackMovL41": {
+					"rotation": [218, 0, 0],
+					"position": [0, -9.5, 106.55]
+				},
+				"trackMovL42": {
+					"rotation": [-143, 0, 0],
+					"position": [0, -11.3, 104.25]
+				},
+				"trackMovL43": {
+					"rotation": [-145, 0, 0],
+					"position": [0, -13.1, 101.9]
+				},
+				"trackMovL44": {
+					"rotation": [-148.5, 0, 0],
+					"position": [0, -14.8, 99.5]
+				},
+				"trackMovL45": {
+					"rotation": [-157.5, 0, 0],
+					"position": [0, -16.3, 96.9]
+				},
+				"trackMovL46": {
+					"rotation": [-180, 0, 0],
+					"position": [0, -17.3, 94.3]
+				},
+				"trackMovL47": {
+					"rotation": [-180, 0, 0],
+					"position": [0, -17.3, 91.3]
+				},
+				"trackMovL48": {
+					"rotation": [-180, 0, 0],
+					"position": [0, -17.3, 88.3]
+				},
+				"trackMovL49": {
+					"rotation": [-180, 0, 0],
+					"position": [0, -17.3, 85.3]
+				},
+				"trackMovL50": {
+					"rotation": [-180, 0, 0],
+					"position": [0, -17.3, 82.3]
+				},
+				"trackMovL51": {
+					"rotation": [-180, 0, 0],
+					"position": [0, -17.3, 79.3]
+				},
+				"trackMovL52": {
+					"rotation": [-180, 0, 0],
+					"position": [0, -17.3, 76.3]
+				},
+				"trackMovL53": {
+					"rotation": [-180, 0, 0],
+					"position": [0, -17.3, 73.3]
+				},
+				"trackMovL54": {
+					"rotation": [-180, 0, 0],
+					"position": [0, -17.3, 70.3]
+				},
+				"trackMovL55": {
+					"rotation": [-180, 0, 0],
+					"position": [0, -17.3, 67.3]
+				},
+				"trackMovL56": {
+					"rotation": [-180, 0, 0],
+					"position": [0, -17.3, 64.4]
+				},
+				"trackMovL57": {
+					"rotation": [-180, 0, 0],
+					"position": [0, -17.3, 61.4]
+				},
+				"trackMovL58": {
+					"rotation": [-180, 0, 0],
+					"position": [0, -17.3, 58.4]
+				},
+				"trackMovL59": {
+					"rotation": [-180, 0, 0],
+					"position": [0, -17.3, 55.4]
+				},
+				"trackMovL60": {
+					"rotation": [-180, 0, 0],
+					"position": [0, -17.3, 52.4]
+				},
+				"trackMovL61": {
+					"rotation": [-180, 0, 0],
+					"position": [0, -17.3, 49.4]
+				},
+				"trackMovL62": {
+					"rotation": [-180, 0, 0],
+					"position": [0, -17.3, 46.4]
+				},
+				"trackMovL63": {
+					"rotation": [-180, 0, 0],
+					"position": [0, -17.3, 43.4]
+				},
+				"trackMovL64": {
+					"rotation": [-180, 0, 0],
+					"position": [0, -17.3, 40.4]
+				},
+				"trackMovL65": {
+					"rotation": [-180, 0, 0],
+					"position": [0, -17.3, 37.4]
+				},
+				"trackMovL66": {
+					"rotation": [-180, 0, 0],
+					"position": [0, -17.3, 34.4]
+				},
+				"trackMovL67": {
+					"rotation": [-180, 0, 0],
+					"position": [0, -17.3, 31.4]
+				},
+				"trackMovL68": {
+					"rotation": [-180, 0, 0],
+					"position": [0, -17.3, 28.5]
+				},
+				"trackMovL69": {
+					"rotation": [-180, 0, 0],
+					"position": [0, -17.3, 25.5]
+				},
+				"trackMovL70": {
+					"rotation": [-180, 0, 0],
+					"position": [0, -17.3, 22.5]
+				},
+				"trackMovL71": {
+					"rotation": [-180, 0, 0],
+					"position": [0, -17.3, 19.5]
+				},
+				"trackMovL72": {
+					"rotation": [-180, 0, 0],
+					"position": [0, -17.3, 16.5]
+				},
+				"trackMovL73": {
+					"rotation": [-180, 0, 0],
+					"position": [0, -17.3, 13.5]
+				},
+				"trackMovL75": {
+					"rotation": [-192.5, 0, 0],
+					"position": [0, -17.3, 10.5]
+				},
+				"trackMovL76": {
+					"rotation": [-203, 0, 0],
+					"position": [0, -16.6, 7.7]
+				},
+				"trackMovL78": {
+					"rotation": [-203.5, 0, 0],
+					"position": [0, -15.5, 5]
+				},
+				"trackMovL79": {
+					"rotation": [-205, 0, 0],
+					"position": [0, -14.3, 2.3]
+				},
+				"trackMovL80": {
+					"rotation": [-207.5, 0, 0],
+					"position": [0, -13.3, 0.1]
+				},
+				"trackMovL81": {
+					"rotation": [-209, 0, 0],
+					"position": [0, -12.1, -2.3]
+				},
+				"trackMovL82": {
+					"rotation": [-232, 0, 0],
+					"position": [0, -10.7, -4.9]
+				},
+				"trackMovL83": {
+					"rotation": [119.5, 0, 0],
+					"position": [0, -8.5, -6.6]
+				},
+				"trackMovL84": {
+					"rotation": [87.5, 0, 0],
+					"position": [0, -5.95, -7.95]
+				},
+				"trackMovL85": {
+					"rotation": [47.5, 0, 0],
+					"position": [0, -3.05, -7.85]
+				},
+				"trackMovL86": {
+					"rotation": [22.5, 0, 0],
+					"position": [0, -0.95, -5.95]
+				},
+				"trackMovL87": {
+					"rotation": [-0.5, 0, 0],
+					"position": [0, 0.05, -3.15]
+				}
+			}
+		}
+	}
+}

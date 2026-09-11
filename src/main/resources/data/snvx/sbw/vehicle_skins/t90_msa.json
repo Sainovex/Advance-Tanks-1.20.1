@@ -1,0 +1,17 @@
+{
+  "Skins": [
+    {
+      "Id": "vanilla",
+      "Name": "Vanilla",
+      "Texture": "superbwarfare:textures/bedrock/vehicle/t90msa_green.png",
+      "Priority": 1
+    },
+    {
+      "Id": "desert",
+      "Name": "Desert",
+      "Description": "Component#skin.snvx.t90msa.desert",
+      "Texture": "superbwarfare:textures/bedrock/vehicle/t90msa_desert.png",
+      "Priority": 2
+    }
+  ]
+}
