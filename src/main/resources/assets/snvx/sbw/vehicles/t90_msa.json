@@ -1,0 +1,10 @@
+{
+  "ID": "snvx:t90_msa",
+  "Animation": "snvx:animations/bedrock/vehicle/t90msa.animation.json",
+  "Models": [
+    {
+      "Model": "snvx:models/bedrock/vehicle/t90msa.geo.json",
+      "Texture": "snvx:textures/bedrock/vehicle/t90msa_green.png"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "entity.snvx.t90_msa": "T-90MS Advance",
+  "entity.snvx.abrams_x": "AbramsX",
+  "entity.snvx.hacv_overlord": "HACV Overlord",
+  "info.snvx.t90_msa": "The T90MS Advance Tank is the Russia army's premier main battle tank. Its primary armament is a dual 125mm smoothbore gun capable of firing multiple types of ammunition. Equipped with advanced composite armor, it is designed for high-intensity ground assault, renowned for its powerful firepower, protection, and battlefield survivability. This tank dont exist on Real life",
+  "info.snvx.abrams_x": "AbramsX is a next-generation main battle tank technology demonstrator developed by General Dynamics Land Systems (GDLS). Unveiled at AUSA in October 2022, it serves as a bridge between current M1A2 Abrams variants and future combat vehicles.",
+  "info.snvx.hacv_overlord": "HACV Overlord boasts the highest firepower and second highest health pool of any hovercraft. Featuring an extremely diverse and well rounded arsenal, the HACV Overlord can hold its own against just about anything currently in the game. It is primarily designed to deal with anti ground warfare, however its powerful flak cannon can deal hefty damage against air vehicles as well. The HACV is also incredibly fast for something as powerful as it is, and has a great health pool to go alongside it. HACV Overlord carries a plethora of powerful equipment. It is armed with a Smart Flak Cannon, 2 AI Controlled Machine Guns, 8 Anti Tank Missiles, and 36 Indirect Rockets",
+
+  "weapon.snvx.smart_flak_cannon": "Smart Flak Cannon %1$s"
+}

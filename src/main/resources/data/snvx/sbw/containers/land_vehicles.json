@@ -1,0 +1,12 @@
+{
+  "List": [
+    {
+      "Type": "snvx:t90_msa",
+      "Weight": 4
+    },
+    {
+      "Type": "snvx:abrams_x",
+      "Weight": 2.5
+    }
+  ]
+}

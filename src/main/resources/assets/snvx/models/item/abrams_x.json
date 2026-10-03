@@ -1,0 +1,7 @@
+{
+  "id": "snvx:abrams_x",
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "snvx:textures/vehicle_icon/container/abrams_x.png"
+  }
+}
