@@ -8,7 +8,7 @@ This mod introduces highly detailed main battle tanks with custom geometry, real
 
 ## Features
 
-* **Custom Tank Models:** Features high-detail vehicle models including the T-90MS and coming soon the modern AbramsX prototype.
+* **Custom Tank Models:** Features high-detail vehicle models including the T-90MS and the modern AbramsX prototype.
 * **Realistic Track Animations:** Custom math-driven piecewise linear interpolation (lerp) for smooth, continuous track loops without snapping.
 * **Superb Warfare Integration:** Full compatibility with Superb Warfare's entity systems and container block items.
 * **Dedicated Creative Tab:** Organized item tab under **Advance Vehicle** for easy access in creative mode.
