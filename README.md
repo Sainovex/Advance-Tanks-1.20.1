@@ -6,7 +6,7 @@ This mod introduces highly detailed main battle tanks with custom geometry, real
 
 ---
 
-## 🛠️ Features
+## Features
 
 * **Custom Tank Models:** Features high-detail vehicle models including the T-90MS and coming soon the modern AbramsX prototype.
 * **Realistic Track Animations:** Custom math-driven piecewise linear interpolation (lerp) for smooth, continuous track loops without snapping.
@@ -15,18 +15,18 @@ This mod introduces highly detailed main battle tanks with custom geometry, real
 
 ---
 
-## 📋 Prerequisites & Dependencies
+## Prerequisites & Dependencies
 
 To run or develop this mod, ensure you have:
 
 * **Minecraft:** `1.20.1`
 * **Minecraft Forge:** `47.3.0+`
-* **Superb Warfare:** `0.8.9.1` Required dependency.
+* **Superb Warfare:** `0.8.9.1, 0.8.9.2` Required dependency.
 * **Patchouli:** *(Optional)* Required if you want full in-game manual guide support.
 
 ---
 
-## 🚀 Building & Running from Source
+## Building & Running from Source
 
 1. **Clone the repository:**
    ```bash
