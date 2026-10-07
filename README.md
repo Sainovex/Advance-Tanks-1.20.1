@@ -25,10 +25,12 @@ To run or develop this mod, ensure you have:
 * **Patchouli:** *(Optional)* Required if you want full in-game manual guide support.
 
 ---
+
 ## HACV Overlord Plan
-**Front Width: 10 Blocks**
-**Side Length: 15 Blocks**
-**Height: 6 Blocks** (1 Block more to fit Turret = 7 Blocks Tall Total)
+
+* **Front Width: 10 Blocks**
+* **Side Length: 15 Blocks**
+* **Height: 6 Blocks** (1 Block more to fit Turret = 7 Blocks Tall Total)
 ---
 
 ## Building & Running from Source
