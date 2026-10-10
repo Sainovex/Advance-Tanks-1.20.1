@@ -1,0 +1,10 @@
+{
+    "ID": "snvx:rail_tank",
+    "Animation": "snvx:animations/bedrock/vehicle/rail_tank.animation.json",
+    "Models": [
+        {
+            "Model": "snvx:models/bedrock/vehicle/rail_tank.geo.json",
+            "Texture": "snvx:textures/bedrock/vehicle/rail_tank.png"
+        }
+    ]
+}

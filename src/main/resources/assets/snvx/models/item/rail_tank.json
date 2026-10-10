@@ -1,0 +1,7 @@
+{
+    "ID": "snvx:rail_tank",
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "snvx:textures/vehicle_icon/container/rail_tank.png"
+    }
+}

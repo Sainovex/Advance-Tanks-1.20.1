@@ -1,0 +1,17 @@
+{
+  "entity.snvx.t90_msa": "T-90MS Advance",
+  "entity.snvx.abrams_x": "AbramsX",
+  "entity.snvx.rail_tank": "Rail Tank",
+  "entity.snvx.hacv_overlord": "HACV Overlord",
+  "info.snvx.t90_msa": "The T90MS Advance Tank is the Russia army's premier main battle tank. Its primary armament is a dual 125mm smoothbore gun capable of firing multiple types of ammunition. Equipped with advanced composite armor, it is designed for high-intensity ground assault, renowned for its powerful firepower, protection, and battlefield survivability. This tank dont exist on Real life",
+  "info.snvx.abrams_x": "AbramsX is a next-generation main battle tank technology demonstrator developed by General Dynamics Land Systems (GDLS). Unveiled at AUSA in October 2022, it serves as a bridge between current M1A2 Abrams variants and future combat vehicles.",
+  "info.snvx.rail_tank": "A devastating prototype built around absolute kinetic destruction. It trades survivability for unprecedented offensive power. It features stripped-down composite armor plating and a heavy reactor core that severely reduces both its movement speed and turret rotation. However, its primary magnetic rail accelerator bypasses standard armor grids entirely—capable of neutralizing enemy tanks in a single, hyper-focused shot.",
+  "info.snvx.hacv_overlord": "HACV Overlord boasts the highest firepower and second highest health pool of any hovercraft. Featuring an extremely diverse and well rounded arsenal, the HACV Overlord can hold its own against just about anything currently in the game. It is primarily designed to deal with anti ground warfare, however its powerful flak cannon can deal hefty damage against air vehicles as well. The HACV is also incredibly fast for something as powerful as it is, and has a great health pool to go alongside it. HACV Overlord carries a plethora of powerful equipment. It is armed with a Smart Flak Cannon, 2 AI Controlled Machine Guns, 8 Anti Tank Missiles, and 36 Indirect Rockets",
+
+  "weapon.snvx.smart_flak_cannon": "Smart Flak Cannon %1$s",
+  "Weapon.snvx.smart_flak_cannon.desc": "The Smart Flak Cannon is a powerful anti-air weapon that can track and engage multiple aerial targets simultaneously. It is equipped with advanced targeting systems and can fire high-velocity flak rounds to effectively neutralize enemy aircraft. The cannon's smart targeting capabilities allow it to prioritize threats and adjust its firing patterns for maximum efficiency.",
+  "Weapon.snvx.ray": "AP Ray %1$s",
+  "Weapon.snvx.ray.desc": "The AP Ray is a high-velocity, armor-piercing projectile designed to penetrate heavily armored targets. It is capable of delivering devastating damage to enemy vehicles and fortifications, making it an essential weapon for anti-tank operations. The AP Ray's precision and power make it a formidable choice for engaging high-value targets on the battlefield.",
+  "Weapon.snvx.explosive_ray": "HE Ray %1$s",
+  "Weapon.snvx.explosive_ray.desc": "The HE Ray is a high-explosive projectile designed to deliver maximum damage to enemy fortifications and vehicles. It is capable of creating large blast radii upon impact, making it effective against groups of enemies and structures. The HE Ray's explosive power makes it a valuable asset for area denial and suppression tactics."
+}
